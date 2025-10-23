@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+*.dist-info/
+*.manifest
+*.spec
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+ENV/
+env/
+
+# VSCode settings
+.vscode/
+
+# Data files (optional, if large)
+*.csv
+*.npz
+*.h5
